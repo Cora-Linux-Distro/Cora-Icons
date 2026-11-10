@@ -14,9 +14,4 @@ A minimal, modern vector icon set designed for CoraOS, featuring clean geometry 
 ## Repository Structure
 
 ```text
-coraos-icon-theme/
-├── 16x16/       # Small UI & panel icons
-├── 24x24/       # Toolbar & status icons
-├── 48x48/       # Desktop & file manager icons
-├── scalable/    # Vector SVG masters
-└── README.md
+still in development!!
