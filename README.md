@@ -2,7 +2,7 @@
 
 A minimal, modern vector icon set designed for CoraOS, featuring clean geometry and vibrant red accents.
 
-![CoraOS Icons Preview](preview.png) *(replace preview.png with a screenshot of your icons)*
+![CoraOS Icons Preview](preview.png)
 
 ## Features
 - **Minimal & Modern:** Clean lines with high legibility at any resolution.
